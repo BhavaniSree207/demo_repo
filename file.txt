@@ -1,0 +1,3 @@
+Hii
+
+I am creating this file called "file.txt" for my DevOps bootcamp learning
